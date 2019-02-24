@@ -1,3 +1,5 @@
+#DL for your ARIMA model
+
 The package goal is to create a mdoel that utilizes LSTM model to choose the most appropriate simple model for TS prediction. This repositroy will consist of:
 
   1. [ ] A package created for implementing TS models within a Deep Learning network based on PyTorch

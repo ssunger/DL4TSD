@@ -1,4 +1,4 @@
-#DL for your ARIMA model
+# DL for your ARIMA model
 
 The package goal is to create a mdoel that utilizes LSTM model to choose the most appropriate simple model for TS prediction. This repositroy will consist of:
 

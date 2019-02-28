@@ -4,10 +4,10 @@ The repository's goal is to developed and explore the usage of DL models on Fina
 
 1.  Relevant papers to these implementations
 2. A package for data attainment and dataset creation for the Learning Algo
-	[x] Daily Financial Time Series Data
+	- [x] Daily Financial Time Series Data
 3.  The model implemented and notebooks for example implementations
-	[] Targeted OMAML
-	[] Descret Experet Machines
-		[] Reinforcment Learning
-		[] Bayesian Sparsity
-	[]BMAML
+	- [] Targeted OMAML
+	- [] Descret Experet Machines
+		- [] Reinforcment Learning
+		- [] Bayesian Sparsity
+	- []BMAML

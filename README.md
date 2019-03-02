@@ -11,4 +11,4 @@ The repository's goal is to developed and explore the usage of DL models on Fina
 	- [ ] Descret Experet Machines
 		- [ ] Reinforcment Learning
 		- [ ] Bayesian Sparsity
-	- [ ]BMAML
+	- [ ] BMAML

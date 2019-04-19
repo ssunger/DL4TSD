@@ -1,4 +1,4 @@
-﻿ACT Symbol,Company Name,Security Type,Weight,Value,Industry
+﻿Ticker,Company Name,Security Type,Weight,Value,Industry
 MSFT,MICROSOFT CORP,Equity,3.64,"5,839,707,806.91",Information Technology
 AAPL,APPLE INC,Equity,3.31,"5,309,263,642.76",Information Technology
 AMZN,AMAZON COM INC,Equity,2.85,"4,562,854,958.76",Consumer Discretionary
